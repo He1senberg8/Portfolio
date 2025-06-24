@@ -4,9 +4,9 @@ import { motion, useScroll , useSpring , useTransform } from "motion/react"
 function ParallaxBackground() {
     const { scrollYProgress } = useScroll()
     const x = useSpring(scrollYProgress , {damping:50})
-    const ma = useTransform(x,[0,0.5],["0vh","0vh"])
-    const planet = useTransform(x,[0,0.5],["40%","0%"])
-    const mb = useTransform(x,[0,0.5],["0vh","10vh"])
+    const ma = useTransform(x,[0,0.5],["0%","70%"])
+    const planet = useTransform(x,[0,0.5],["0%","-20%"])
+    const mb = useTransform(x,[0,0.5],["0%","30%"])
     const mc = useTransform(x,[0,0.5],["0%","0%"])
   return (
     <section className='absolute inset-0 bg-black/40'>
