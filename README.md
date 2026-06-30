@@ -6,19 +6,32 @@ Welcome to my personal portfolio repository! This is a modern, fast, and visuall
 
 ## 📸 Website Highlights
 
-Here are some highlights of the website design and layout:
+Here are the key highlights and sections of the portfolio:
 
-### 🚀 Hero & About Sections
-A modern, dark-themed introduction featuring smooth parallax effects and micro-interactions.
-![Hero & About Section](public/assets/portfolio-screenshot-3.png)
+### 🚀 1. Hero & Landing Section
+The main entry point of the website featuring clean navigation, animated floating terms, and a dynamic space/planet background.
+![Hero Section](public/assets/portfolio-screenshot-1.png)
 
-### 📊 Live Coding Stats
-A dedicated section that highlights my competitive programming rankings, ratings, and problem-solving metrics.
-![Coding Stats](public/assets/portfolio-screenshot-1.png)
+### 👤 2. About Me Page
+A highly interactive grid layout showing:
+* A code snippet background illustration.
+* A creative word cloud canvas representing key design philosophies (Database, GRASP, Design Patterns, OOP).
+* Pursuit of B.Tech in Computer Science at NIT Agartala.
+![About Me Part 1](public/assets/portfolio-screenshot-2.png)
 
-### 🛠️ Interactive Codolio & GitHub Cards
-Dynamically aggregated stats from my Codolio profile and live GitHub data.
-![Codolio & GitHub Cards](public/assets/portfolio-screenshot-2.png)
+* Interactive "Copy Email Address" card to easily copy the email address.
+* Custom technology node web showcasing active skills (.NET, React, C++, C#, JS, CSS3, etc.).
+![About Me Part 2](public/assets/portfolio-screenshot-3.png)
+
+### 🛠️ 3. Projects Section
+Showcase of personal projects with technical details. For example, **Socketly** (a secure real-time MERN chat app):
+* Icon integrations of standard tools (MongoDB, Express, React, Node.js, Socket.IO, Tailwind CSS).
+* Responsive mockup slide showcasing login screen and chat channels.
+![Projects View](public/assets/portfolio-screenshot-4.png)
+
+* Project description outlining MVC/MERN architecture, WebSocket integration, and latency-optimized typing indicators.
+* Detailed feature bullet points and clickable links to "GitHub Repo" and "Live Demo".
+![Project Details](public/assets/portfolio-screenshot-5.png)
 
 ---
 
