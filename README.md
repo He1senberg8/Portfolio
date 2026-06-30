@@ -33,6 +33,17 @@ Showcase of personal projects with technical details. For example, **Socketly** 
 * Detailed feature bullet points and clickable links to "GitHub Repo" and "Live Demo".
 ![Project Details](public/assets/portfolio-screenshot-5.png)
 
+### 📊 4. Coding Stats Section
+A dashboard presenting coding metrics across popular platforms (LeetCode, Codeforces, AtCoder, CodeChef):
+![Coding Stats Part 1](public/assets/portfolio-screenshot-6.png)
+
+Now fully upgraded with dynamically fetched Codolio and GitHub statistics card layouts:
+![Coding Stats Part 2](public/assets/portfolio-screenshot-7.png)
+
+### ✉️ 5. Contact Me Section
+A minimal, elegant contact form integrated with EmailJS for direct inquiries.
+![Contact Form](public/assets/portfolio-screenshot-8.png)
+
 ---
 
 ## ✨ Key Features
