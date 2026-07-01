@@ -1,4 +1,4 @@
-# 🌟 Pallab Nath's Portfolio Website
+# 🌟 Pallab's Portfolio Website 
 
 Welcome to my personal portfolio repository! This is a modern, fast, and visually stunning portfolio website built using **React 19**, **Vite**, **Tailwind CSS**, and **Framer Motion** (Motion). It is designed to showcase my skills, projects, and live coding statistics across various platforms.
 
